@@ -1,0 +1,10 @@
+{
+  "name": "simple-login-demo",
+  "version": "1.0.0",
+  "description": "初始化项目并实现简单登录功能",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
